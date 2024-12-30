@@ -349,3 +349,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [30Dec2024 19:22:35.909] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Dec2024 19:22:35.913] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [30Dec2024 19:22:36.000] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -1313 ~ 128 after 0 tries
+[30Dec2024 19:47:25.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74034f28[id=<null>,name=AbimaelRDx,properties={},legacy=false] (/127.105.195.60:56635) lost connection: Disconnected
+[30Dec2024 19:48:19.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c6528dd[id=<null>,name=AbimaelRDx,properties={},legacy=false] (/127.105.195.60:49091) lost connection: Disconnected
+[30Dec2024 19:48:26.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c026096[id=<null>,name=AbimaelRDx,properties={},legacy=false] (/127.105.195.60:50065) lost connection: Disconnected
