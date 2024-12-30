@@ -1036,3 +1036,30 @@
 [30Dec2024 17:18:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> a
 [30Dec2024 17:25:54.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AbimaelRDx a server operator
 [30Dec2024 17:26:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Creative Mode]
+[30Dec2024 17:31:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Monster Hunter]
+[30Dec2024 17:31:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [A Strange Grave Dust]
+[30Dec2024 17:32:44.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1660, l='ServerLevel[world]', x=202.57, y=60.92, z=91.48] died, message: 'Villager was slain by Zombie'
+[30Dec2024 17:40:40.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Stone Age]
+[30Dec2024 17:46:51.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set the time to 1000]
+[30Dec2024 17:55:43.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbimaelRDx moved too quickly! -9.840029158938876,2.814027365660838,-3.473950245881042
+[30Dec2024 17:55:50.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbimaelRDx moved too quickly! -8.648108067905525,1.369373660269524,4.9996513290291205
+[30Dec2024 17:55:53.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> a
+[30Dec2024 17:56:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Cover Me with Diamonds]
+[30Dec2024 17:57:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Applied effect Night Vision to AbimaelRDx]
+[30Dec2024 17:57:53.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Gamerule keepInventory is now set to: true]
+[30Dec2024 17:58:03.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set spawn point to 276, -24, 1170 [0.0] in minecraft:overworld for AbimaelRDx]
+[30Dec2024 17:58:05.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Survival Mode]
+[30Dec2024 17:58:55.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Creative Mode]
+[30Dec2024 17:59:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Survival Mode]
+[30Dec2024 17:59:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Not Today, Thank You]
+[30Dec2024 17:59:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Knowledge of Death]
+[30Dec2024 17:59:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Ashes 'n Bones]
+[30Dec2024 18:03:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Creative Mode]
+[30Dec2024 18:05:17.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Survival Mode]
+[30Dec2024 18:05:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> a
+[30Dec2024 18:05:49.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbimaelRDx lost connection: Disconnected
+[30Dec2024 18:05:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx left the game
+[30Dec2024 18:05:49.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 18:06:12.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AbimaelRDx[/127.105.195.60:50367] logged in with entity id 17051 at (197.18814127082385, -18.0, 1143.6293885077953)
+[30Dec2024 18:06:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx joined the game
+[30Dec2024 18:06:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [Take Aim]
